@@ -1,2 +1,5 @@
-# hotel-randa-dusty
-Hotel Randa &amp; Dusty — playful family guest-room booking site
+# Hotel Randa & Dusty
+
+Playful family guest-room booking site.
+
+Live: https://dadsofgod.github.io/hotel-randa-dusty/
